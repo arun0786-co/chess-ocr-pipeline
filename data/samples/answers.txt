@@ -1,0 +1,5 @@
+board_1.png 4kb2/p3pp1r/n1prn1p1/3p3P/Qp1P1q2/2P1N1RB/PP1KPP2/R1BN4
+board_2.png rbbqn3/3p1k2/1p3P2/p1B1p2p/R2PN3/1P2P3/3Q1P1P/5KrR
+board_3.png rnbqk2r/1ppp1ppp/p3p3/4B1N1/4nPP1/1P6/P1PPPb1P/RN1QKB1R
+board_4.png 5bn1/4pkr1/3p4/2P1Q2p/1N1q2RP/RP5B/5p2/2Kb4
+board_5.png 4rr2/1bqk2p1/pppnpb2/2P3Np/1P2P1n1/B1pP1P2/Q3R1BP/4K2R
